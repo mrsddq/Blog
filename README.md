@@ -6,10 +6,10 @@
 - Enterprise Ready, Out-of-the-box
 
 - Model Garden
- - Repository
- - Open Source
- - Task- Specific
- - Foundation
+  - Repository
+  - Open Source
+  - Task- Specific
+  - Foundation
 - Vertex AI Studio
   - Prompt Design
   - Tuning  
