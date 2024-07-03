@@ -4,3 +4,7 @@
 - Model Management
 - Your Data, Your Terms
 - Enterprise Ready, Out-of-the-box
+
+Model Garden is a repository
+-- Open Source
+Task- Specific
