@@ -9,3 +9,6 @@
 - PaLM is a state of the art language-model for text-only use cases. Gemini is a multi-modal model that can be used for text, image, video and audio.
 - Vertex AI Studio provides a user friendly interface where you can get started with everything generative AI.
 -  Vertex AI Agent Builder provides out-of-the-box solutions for search, recommendations and conversational agents.
+
+## Understanding how generative AI and LLMs work
+
